@@ -50,7 +50,7 @@ nav li {
 }
 
 nav a {
-    color: #000000; /* Texto preto */
+    color: #FFFFFF; /* Texto preto */
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -72,7 +72,7 @@ main {
     width: 100%;
     padding: 2em;
     margin: 1em;
-    background-color: #CCCCCC; /* Container cinza claro */
+    background-color: #000000; /* Container cinza claro */
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     margin-top: 0; 
