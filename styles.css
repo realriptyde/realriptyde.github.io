@@ -1,7 +1,7 @@
 /* Definir a fonte personalizada */
 @font-face {
     font-family: 'CustomFont';
-    src: url('fonts/font.ttf') format('truetype');
+    src: url('fonts/MadLines.ttf') format('truetype');
     font-style: normal;
 }
 
