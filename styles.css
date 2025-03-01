@@ -7,8 +7,8 @@
 
 body {
     font-family: 'CustomFont', sans-serif;
-    background-color: #FFFFFF; /* Fundo branco */
-    color: #000000; /* Texto preto */
+    background-color: #000000; /* Fundo branco */
+    color: #FFFFFF; /* Texto preto */
     margin: 0;
     padding: 0;
     display: flex;
@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    background-color: #000000; /* Cabeçalho cinza médio */
+    background-color: #2c2c2c; /* Cabeçalho cinza médio */
     padding: 1em 0;
     opacity: 0.7;
 }
@@ -34,7 +34,7 @@ nav {
 }
 
 .logo {
-    font-size: 1.5em;
+    font-size: 2.5em;
     font-weight: bold;
 }
 
@@ -164,7 +164,7 @@ footer {
 }
 
 .name-image-container h1 {
-    font-size: 2.5em;
+    font-size: 3.5em;
     margin-bottom: 10px;
 }
 
@@ -300,12 +300,12 @@ footer {
 }
 
 #commissions h2 {
-    font-size: 2.5em;
+    font-size: 3.5em;
     margin-bottom: 20px;
 }
 
 #commissions p {
-    font-size: 1.2em;
+    font-size: 2.2em;
     margin-bottom: 30px;
 }
 
@@ -323,7 +323,7 @@ footer {
 
 .commission-item h3 {
     margin-bottom: 15px;
-    font-size: 1.8em;
+    font-size: 2.8em;
 }
 
 .image-container {
