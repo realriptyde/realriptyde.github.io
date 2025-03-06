@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    background-color: #2c2c2c; /* Cabeçalho cinza médio */
+    background-color: #000000; /* Cabeçalho cinza médio */
     padding: 1em 0;
     opacity: 0.7;
 }
@@ -56,7 +56,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #333333; /* Cor de destaque cinza escuro */
+    color: #000000; /* Cor de destaque cinza escuro */
 }
 
 main {
@@ -79,7 +79,7 @@ main {
 }
 
 h2 {
-    color: #333333; /* Título cinza escuro */
+    color: #FFFFFF; /* Título cinza escuro */
     border-bottom: 2px solid #000000; /* Borda preta */
     padding-bottom: 0.5em;
     margin-bottom: 1em;
@@ -93,7 +93,7 @@ h2 {
 }
 
 .projeto {
-    background-color: #2c2c2c; /* Projeto cinza médio */
+    background-color: #000000; /* Projeto cinza médio */
     padding: 1em;
     border-radius: 5px;
     transition: transform 0.3s ease;
@@ -104,7 +104,7 @@ h2 {
 }
 
 footer {
-    background-color: #2c2c2c; /* Rodapé cinza escuro */
+    background-color: #000000; /* Rodapé cinza escuro */
     padding: 1em 0;
     text-align: center;
 }
@@ -119,7 +119,7 @@ footer {
 .quadradinho {
     width: 150px;
     height: 150px;
-    background-color: #666666; /* Roxo agora cinza escuro */
+    background-color: #FFFFFF; /* Roxo agora cinza escuro */
     border-radius: 10px;
     overflow: hidden;
 }
